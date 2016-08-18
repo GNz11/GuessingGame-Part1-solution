@@ -56,14 +56,16 @@ body {
     background-image: url('binary.jpg');
 }
 
-#headers {
+/*#headers {
     background-color: rgba(256, 256, 256, 0.7)
-}
+}*/
 
 .shadow {
     box-shadow: 2px 2px 2px darkgray
 }
 
 #app {
-    margin-top: 50px;
+    width: 60%;
+    margin: 50px auto;
+    background-color: rgba(256, 256, 256, 0.5)
 }
