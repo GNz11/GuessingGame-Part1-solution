@@ -56,10 +56,6 @@ body {
     background-image: url('binary.jpg');
 }
 
-/*#headers {
-    background-color: rgba(256, 256, 256, 0.7)
-}*/
-
 .shadow {
     box-shadow: 2px 2px 2px darkgray
 }
